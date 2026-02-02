@@ -439,6 +439,7 @@ document.addEventListener('DOMContentLoaded', () => {
         renderer.renderCuratedSection('subject:mystery+atmosphere', 'row-rainy');
         renderer.renderCuratedSection('authors:amitav+ghosh|authors:arundhati+roy|subject:india', 'row-indian');
         renderer.renderCuratedSection('subject:classic+fiction', 'row-classics');
+        renderer.renderCuratedSection('subject:fiction', 'row-genre');
     }
 
     // Check if Library
